@@ -7,3 +7,5 @@ git commit -m "Un mensaje representativo" --> se añade un mensaje sin abrir el 
 git log --> Ver los commits hechos y toda la info de cada uno
 git push origin(url de repo) master(rama) --> empuja los commits al repositorio github
 git pull origin master --> trae los commits nuevos del remoto
+
+asjdjasdha
