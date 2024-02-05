@@ -1,0 +1,9 @@
+GIT
+
+git init --> creamos un repositorio
+git status --> comprobamos el estado de la carpeta (vemos info del repo)
+git add archivo --> pasar archivo al área de seguimiento
+git commit -m "Un mensaje representativo" --> se añade un mensaje sin abrir el editor
+git log --> Ver los commits hechos y toda la info de cada uno
+git push origin(url de repo) master(rama) --> empuja los commits al repositorio github
+git pull origin master --> trae los commits nuevos del remoto
